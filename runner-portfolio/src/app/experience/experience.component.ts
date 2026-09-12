@@ -131,8 +131,8 @@ export class ExperienceComponent {
         'Build framework-agnostic components in Stencil.js, generating wrappers for Angular, React and vanilla JS',
         'Maintain design-to-dev workflow across Storybook, Zeroheight and Figma',
         'Publish component packages via GitHub Packages, host docs on GitHub Pages',
-        "Built an MCP server exposing design-system code directly to developers' AI tools",
         'Run recurring sessions to train engineers across the organization on the system',
+        'Actively working toward building AI-driven tools that seamlessly connect designers and developers to scale products'
       ],
     },
     {
