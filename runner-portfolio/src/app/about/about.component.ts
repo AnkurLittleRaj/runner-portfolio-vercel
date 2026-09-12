@@ -19,7 +19,7 @@ import { Component } from '@angular/core';
               <li>Component architecture in Stencil.js, wrapped for Angular / React / JS</li>
               <li>Documentation and governance across Storybook, Zeroheight and Figma</li>
               <li>Package distribution via GitHub Packages and GitHub Pages</li>
-              <li>Built an MCP server that hands design-system code straight to AI coding assistants</li>
+              <li>Actively working toward building AI-driven tools that seamlessly connect designers and developers to scale products</li>
             </ul>
           </div>
           <div class="about-card">
