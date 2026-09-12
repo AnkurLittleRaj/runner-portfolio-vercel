@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "dist/runner-portfolio/browser",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
